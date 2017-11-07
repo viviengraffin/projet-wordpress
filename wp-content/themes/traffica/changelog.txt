@@ -1,0 +1,68 @@
+== Changelog ==
+
+= Theme Name: Traffica Theme
+
+= Version: 1.1.4 =
+1. Remove error on 404 page.
+2. Change Styling on posts.
+
+= Version: 1.1.3 =
+1. Pro Link Updated In Customizer 
+
+= Version: 1.1.2 =
+1. Support Link Button Added In WordPress Customize
+
+= Version: 1.1.1 =
+1. Theme option to WordPress customizer API migration.
+
+= Version: 1.1.0 =
+1. 'editor-style.css' file added in theme root directory.
+2. Sanitized text string in loop.php,single.php and some other file.
+3. Replace hardcoded search form from sidebar-footer.php file with get_search_form();
+4. Doctype declaration Changed In Theme Header file.
+5. Comment reply script enqueued in theme.
+6. image not found error fixed.
+7. Url Escaping is done in several File.
+
+= Version: 1.0.9 =
+1. Theme check issue fixed.
+2. All text domain matched with theme directory.
+3. Language .pot file matched with text domain.
+4. Use add_theme_support( 'title-tag' ) with after_theme_setup hook and removed title tag from header.php.
+
+= Version: 1.0.8 =
+1. Text wrapped issue fixed.
+2. Miner change in style.css
+
+= Version: 1.0.7 =
+1. screen_icon() found in the file plugin-activation.php. Deprecated since version 3.8 issue fixed.
+2. Removed front-page.php, used home.php instead.
+3. Added slider and feature boxes.
+4. Added Blog Feature boxes.
+5. Added Default footer widgets.
+6. Google fonts request has been blocked; the content must be served over HTTPs issue fixed.
+
+= Version: 1.0.6 =
+1. Preview version issue fixed.
+2. Issue fixed, while testing theme by theme check plugin.
+3. Unnecessary js scripts, removed.
+4. All js scripts calling via one function.
+
+= Version: 1.0.5 =
+1. Sidebar content layout issue fixed.
+
+= Version: 1.0.4 =
+1. Recent post feature added on front page.
+
+= Version: 1.0.3 =
+1. Option added for override wordpress default front page.
+
+= Version: 1.0.2 =
+1. Theme url issue fixed.
+2. Theme php/script error issue fixed.
+3. Deprecated fuction removed.
+4. Plugin activation notice text improved.
+5. Front page show latest posts issue fixed.
+
+= Version: 1.0.0 =
+Traffica Theme Created On 10 Sep 2013.
